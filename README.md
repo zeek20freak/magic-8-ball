@@ -57,3 +57,7 @@ Most AI interfaces hand you the whole model and a blank text box. This is the op
 ## License
 
 MIT. Take it, fork it, ship the better one.
+
+## Honesty note
+
+I don't know how to code. This was built by an AI (Quine, running on Muse) with my guidance: I described what I wanted, made the design decisions — a probability, not a story; the user's key never leaves their browser — and tested whether the thing actually worked. The AI wrote every line of code. I can't read it, and I don't claim to understand how the program works under the hood. By the common definition, that makes this slop — code shipped by someone who can't read it — and I'd rather print that in the repo than let anyone assume otherwise. It's here as a proof of concept, labeled as what it is. Read the code yourself before trusting it. And if you can build it better, that's the invitation at the top of this file.
